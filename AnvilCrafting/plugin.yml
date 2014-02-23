@@ -1,0 +1,7 @@
+author: JuicyDev
+description: Anvil changes.
+main: juicydev.anvilcrafting.AnvilCrafting
+name: AnvilCrafting
+version: '1.0.0'
+description: >
+             Changes the way an anvil functions to create new crafting recipes and remove the old iron and gold ones.
